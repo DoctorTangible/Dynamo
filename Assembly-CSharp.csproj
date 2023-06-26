@@ -64,10 +64,10 @@
     <Compile Include="Assets\borra.cs" />
     <Compile Include="Assets\fdsa.cs" />
     <Compile Include="Assets\Scripts\CancionesScripts\Test.cs" />
+    <Compile Include="Assets\Scripts\NotaAzul.cs" />
     <Compile Include="Assets\Scripts\GestorNivel.cs" />
     <Compile Include="Assets\cansex1.cs" />
     <Compile Include="Assets\Scripts\SwitchCanciones.cs" />
-    <Compile Include="Assets\Scripts\NotaAzul.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
