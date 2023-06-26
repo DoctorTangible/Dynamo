@@ -3,8 +3,6 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public enum _Dificultad { Facil, Normal, Dificil };
-
 public class fdsa : MonoBehaviour
 {
     public AudioClip cancion;
@@ -97,7 +95,8 @@ public class fdsa : MonoBehaviour
             if (current != ult)
             {
                 utilizar = (float)current;
-                ult = (float)current;                
+                //ult = (float)current;                
+                ult = current;                
             }
             else
             {

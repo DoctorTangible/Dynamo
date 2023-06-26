@@ -358,7 +358,14 @@
 "Assets/cansex.cs"
 "Assets/cansex1.cs"
 "Assets/fdsa.cs"
+"Assets/pruebamenu.cs"
 "Assets/scaletexture.cs"
+"Assets/Scripts/CancionesScripts/Test.cs"
+"Assets/Scripts/Controlador.cs"
+"Assets/Scripts/GestorNivel.cs"
+"Assets/Scripts/NotaAzul.cs"
+"Assets/Scripts/SwitchCanciones.cs"
+"Assets/timerputa.cs"
 -langversion:9.0
 
 /deterministic

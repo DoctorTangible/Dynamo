@@ -358,7 +358,9 @@
 "Assets/cansex.cs"
 "Assets/cansex1.cs"
 "Assets/fdsa.cs"
+"Assets/pruebamenu.cs"
 "Assets/scaletexture.cs"
+"Assets/timerputa.cs"
 -langversion:9.0
 
 /deterministic
